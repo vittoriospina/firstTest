@@ -1,3 +1,3 @@
-#version 1.1.1
+#version 1.1.2
 
-print "ciao mondo, questo e' solo un esempio per provare git."
+print "ciao mondo, questo e' la seconda versione."
